@@ -1,0 +1,12 @@
+bin\Debug\Halfmode Xenserver Documenter.exe
+bin\Debug\Halfmode Xenserver Documenter.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Halfmode_Xenserver_Documenter.Properties.Resources.resources
+obj\Debug\Halfmode_Xenserver_Documenter.Xenserver_Documenter.resources
+obj\Debug\Halfmode Xenserver Documenter.csproj.GenerateResource.Cache
+obj\Debug\Halfmode Xenserver Documenter.exe
+obj\Debug\Halfmode Xenserver Documenter.pdb
+obj\Debug\Halfmode Xenserver Documenter.csproj.ResolveComReference.cache
+bin\Debug\CookComputing.XmlRpcV2.dll
+obj\Debug\Halfmode_Xenserver_Documenter.CollectBusy.resources
+obj\Debug\Halfmode_Xenserver_Documenter.Wordbusy.resources
